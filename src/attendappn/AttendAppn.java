@@ -14,7 +14,7 @@ public class AttendAppn {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Eduardo");
+        System.out.println("Edudo");
     }
     
 }
